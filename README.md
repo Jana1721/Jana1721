@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Jana1721/Jana1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jana 👋
 
-Here are some ideas to get you started:
+### ServiceNow Developer | CSA & CAD Certified | Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about ServiceNow development, IT service management, and building practical solutions.
+
+## 🚀 About Me
+- 🎓 B.E. Computer Science Engineering
+- 💻 Interested in ServiceNow Development and IT Support
+- 🏅 Certified ServiceNow Administrator (CSA)
+- 🏅 Certified Application Developer (CAD)
+- 🌱 Currently improving my Java and technical skills
+
+## 🛠️ Technical Skills
+- ServiceNow
+- Java
+- HTML & CSS
+- Business Rules
+- Client Scripts
+- Flow Designer
+- ITSM
+
+## 📌 Featured Projects
+- Campus Dining Management System
+- Student Issue Management System
+- Help Desk Ticket System
+- Gaze Tracking Attention System
+
+## 🔗 Connect With Me
+- LinkedIn: https://linkedin.com/in/jana1721
+- GitHub: https://github.com/Jana1721
